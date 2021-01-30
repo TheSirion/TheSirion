@@ -2,11 +2,13 @@
 ### I'm Matheus Ribeiro, AKA The Sirion. 
 
 ### tl;dr: this is what I work with:
-![](assets/html.png | width=100)
-![](assets/css.png | width=100) 
-![](assets/js.png | width=100)
-![](assets/node.png | width=100)
-![](assets/git.png | width=100)
+<img src='assets/html.png' width='50'> 
+<img src='assets/css.png' width='50'> 
+<img src='assets/js.png' width='50'> 
+<img src='assets/git.png' width='50'> 
+<img src='assets/python.png' width='50'> 
+<img src='assets/vs-code.png' width='50'>
+<img src='assets/brave.png' width='50'>
 
 #### This is what you need to know about me:
 - You can probably tell, but I love to code. But in a project, if I have to choose an **END** to be on, I'll probably go to the **FRONT**;
