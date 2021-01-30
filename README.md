@@ -2,13 +2,13 @@
 ### I'm Matheus Ribeiro, AKA The Sirion. 
 
 ### tl;dr: this is what I work with:
-<img src='assets/html.png' width='50'> 
-<img src='assets/css.png' width='50'> 
-<img src='assets/js.png' width='50'> 
-<img src='assets/git.png' width='50'> 
-<img src='assets/python.png' width='50'> 
-<img src='assets/vs-code.png' width='50'>
-<img src='assets/brave.png' width='50'>
+<br><img src='assets/html.png' height='50'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='assets/css.png' height='50'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='assets/js.png' height='50'>&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src='assets/git.png' height='50'>&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src='assets/python.png' height='50'>&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src='assets/vs-code.png' height='50'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='assets/brave.png' height='50'><br>
 
 #### This is what you need to know about me:
 - You can probably tell, but I love to code. But in a project, if I have to choose an **END** to be on, I'll probably go to the **FRONT**;
