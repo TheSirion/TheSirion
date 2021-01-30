@@ -2,13 +2,13 @@
 ### I'm Matheus Ribeiro, AKA The Sirion. 
 
 ### tl;dr: this is what I work with:
-<br><img src='assets/html.png' alt='html' height='24'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='assets/css.png' alt='css' height='24'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='assets/js.png' alt='JavaScript' height='24'>&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src='assets/git.png' alt='git' height='24'>&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src='assets/python.png' alt='Python' height='24'>&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src='assets/vs-code.png' alt='Visual Studio Code' height='24'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='assets/brave.png' alt='Brave Browser' height='24'><br>
+<br><img src='assets/html.png' alt='html' height='45'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='assets/css.png' alt='css' height='45'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='assets/js.png' alt='JavaScript' height='45'>&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src='assets/git.png' alt='git' height='45'>&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src='assets/python.png' alt='Python' height='45'>&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src='assets/vs-code.png' alt='Visual Studio Code' height='45'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='assets/brave.png' alt='Brave Browser' height='45'><br>
 
 #### This is what you need to know about me:
 - You can probably tell, but I love to code. But in a project, if I have to choose an **END** to be on, I'll probably go to the **FRONT**;
