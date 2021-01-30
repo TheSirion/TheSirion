@@ -1,6 +1,13 @@
 ## 👋 Welcome To My GitHub Profile 
 ### I'm Matheus Ribeiro, AKA The Sirion. 
 
+### tl;dr: this is what I work with:
+![](assets/html.png | width=100)
+![](assets/css.png | width=100) 
+![](assets/js.png | width=100)
+![](assets/node.png | width=100)
+![](assets/git.png | width=100)
+
 #### This is what you need to know about me:
 - You can probably tell, but I love to code. But in a project, if I have to choose an **END** to be on, I'll probably go to the **FRONT**;
 - Nowadays I code almost exclusively in **JavaScript**, but I also know **Python** and **Java**;
