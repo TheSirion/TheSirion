@@ -24,3 +24,8 @@
 I created a study group server on Discord where we help each other in our studies and colaborate in projects. We had a web forum project that was meant to cement what we're learning but unfortunately it was discontinued for simple lack of engagement. Meanwhile, I built a Habbo Hotel fan site for a client using Bootstrap, but since it never went online, I'm not allowed to show it. But I'm trying new things all the time. Just take a look at my repositories! ...or don't, I don't know, some are a bit embarassing.
 ### So what are you working on right now?
 Like I said, I'm working on improving my React and SQL skills, but while I still don't have much to show in my GitHub account of my progress (please bear with me, it's coming!), what I *do* have is a few vanilla JS projects I made not long ago that are very simple, but also clever and I'm really proud of. With each one of them I tried to explore a different aspect of what I can do with JavaScript, like infinite scrolling, for instance. I also tried to make games with Canvas, but I gotta admit. I kind of hated the Canvas API. But who knows in the future? In any case, take a look at my pinned repositories. Although most of them are small in scope, all of them are intended to hone my skills :)
+
+### Want to talk? Get in contact!
+🏙️ [LinkedIn](https://www.linkedin.com/in/matheus-ribeiro92/) <br>
+📧 [E-Mail 1](matheribeiro92@gmail.com) <br>
+📧 [E-Mail 2](thesirion@gmail.com)
