@@ -1,3 +1,5 @@
+[![Github stats](https://github-readme-stats.vercel.app/api?username=TheSirion&show_icons=true&theme=radical)](https://github.com/TheSirion/github-readme-stats)
+
 ## 👋Hello! I'm Matheus. How are you?
 ### If you're in a hurry, this is what I work with:
 <br><img src='assets/html.png' alt='html' height='45'>&nbsp;&nbsp;&nbsp;&nbsp;
