@@ -1,4 +1,4 @@
-[![Github stats](https://github-readme-stats.vercel.app/api?username=TheSirion&show_icons=true&theme=radical)](https://github.com/TheSirion/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=TheSirion&show_icons=true&theme=cobalt)](https://github.com/TheSirion/github-readme-stats)
 
 ## 👋Hello! I'm Matheus. How are you?
 ### If you're in a hurry, this is what I work with:
