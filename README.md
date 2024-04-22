@@ -9,5 +9,3 @@
 <img src='assets/python.png' alt='Python' height='45'>&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src='assets/vs-code.png' alt='Visual Studio Code' height='45'>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='assets/brave.png' alt='Brave Browser' height='45'><br>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=TheSirion&show_icons=true&theme=cobalt)](https://github.com/TheSirion/github-readme-stats)
